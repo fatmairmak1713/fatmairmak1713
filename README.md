@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/2262e7b5-a0bc-412f-87fa-cacc343dac3d)
+![MasterHead](https://github.com/fatmairmak1713/fatmairmak1713/blob/main/indir%20(5).jpeg?raw=true)
 
 <h1 align="center">Fₐₜₘₐ Iᵣₘₐₖ Kᵢₘ</h1>
 <h3 align="center">⠀⠀⠀⠀⠀⠀⠀⠀⠀
