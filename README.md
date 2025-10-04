@@ -42,7 +42,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lrmak1713&label=Profile%20views&color=0e75b8&style=flat" alt="lrmak1713" /> </p>
+<p align="left"> <img src="https://github.com/fatmairmak1713/image/blob/main/indir.gif?raw=true" alt="lrmak1713" /> </p>
 
 
 
