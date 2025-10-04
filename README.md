@@ -51,7 +51,7 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<img src="https://github.com/user-attachments/assets/e56cb777-6e28-414a-9154-d2accc40cc34" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/fatmairmak1713/fatmairmak1713/blob/main/indir.gif?raw=true" alt="Coding" width=200 height=200 align="right">
 
 
 
