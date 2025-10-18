@@ -39,7 +39,7 @@
 
 
 
-
+<h2>önceki hesabım:  </h2> [hesap](https://github.com/Irmak1713) 
 
 
 <p align="left"> <img src="https://github.com/fatmairmak1713/image/blob/main/indir.gif?raw=true" alt="lrmak1713" /> </p>
