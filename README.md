@@ -54,7 +54,8 @@
 <img src="https://github.com/fatmairmak1713/fatmairmak1713/blob/main/indir.gif?raw=true" alt="Coding" width=200 height=200 align="right">
 
 
-🍪 EŞLEŞTİRME OYUNU ([esinibul](https://github.com/fatmairmak1713/Esinibuloyunu/blob/main/!doctype%20html2.html))
+🍪 EŞLEŞTİRME OYUNU [EŞİNİ BUL](https://fatmairmak1713.github.io/Esinibul)
+
 
 
 🎮 KEDİMİ BESLEMEK İSTER MİYDİN? 👉 [Feed the Cat!](https://Irmak1713.github.io/feed-the-cat) 
