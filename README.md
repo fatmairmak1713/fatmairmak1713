@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/fatmairmak1713/image/blob/main/toro%20inoue%20header.jpeg?raw=true)
 
 <h1 align="center">Fₐₜₘₐ Iᵣₘₐₖ Kᵢₘ ?</h1>
-![MasterHead](https://github.com/fatmairmak1713/image/blob/main/blinkiesCafe-Cr.gif?raw=true)
+<img src="https://github.com/fatmairmak1713/image/blob/main/blinkiesCafe-Cr.gif?raw=true" alt="Coding" width=200 height=200 align="right">
 
 <h3 align="center">⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀
