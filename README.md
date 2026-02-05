@@ -75,4 +75,4 @@
 <hr>
 
 
-<img src="https://github.com/fatmairmak1713/image/blob/main/blinkiesCafe-VD.gif?raw=true" alt="Coding" width=200 height=200 align="right">
+
